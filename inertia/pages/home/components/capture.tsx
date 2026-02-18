@@ -1,5 +1,3 @@
-import captureImg from '@/resources/assets/capture.jpeg'
-
 export function Capture() {
   return (
     <section className="relative overflow-hidden py-20 md:py-28">
@@ -54,7 +52,7 @@ export function Capture() {
                 <div className="size-3 rounded-full bg-green-500/80" />
               </div>
               <img
-                src={captureImg}
+                src="/capture.jpeg"
                 alt="Screenshot of Pruftnet's packet capture interface showing real-time network traffic visualization and analysis tools"
                 className="w-175 lg:w-200 xl:w-225"
                 loading="lazy"
@@ -71,7 +69,7 @@ export function Capture() {
               <div className="size-2.5 rounded-full bg-green-500/80" />
             </div>
             <img
-              src={captureImg}
+              src="/capture.jpeg"
               alt="Screenshot of Pruftnet's packet capture interface"
               className="w-full"
               loading="lazy"

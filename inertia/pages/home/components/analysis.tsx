@@ -1,5 +1,3 @@
-import analysisImg from '@/resources/assets/analysis.jpeg'
-
 export function Analysis() {
   return (
     <section className="relative overflow-hidden py-20 md:py-28">
@@ -48,7 +46,7 @@ export function Analysis() {
                 <div className="size-3 rounded-full bg-green-500/80" />
               </div>
               <img
-                src={analysisImg}
+                src="/analysis.jpeg"
                 alt="Visual workflow builder for creating network test scenarios"
                 className="w-175 lg:w-200 xl:w-225"
                 loading="lazy"
@@ -65,7 +63,7 @@ export function Analysis() {
               <div className="size-2.5 rounded-full bg-green-500/80" />
             </div>
             <img
-              src={analysisImg}
+              src="/analysis.jpeg"
               alt="Visual workflow builder for creating network test scenarios"
               className="w-full"
               loading="lazy"

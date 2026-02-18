@@ -1,6 +1,5 @@
 import { ArrowRight, Github } from 'lucide-react'
 import { Button } from '~/components/button'
-import homeSvg from '@/resources/assets/home_svg.svg'
 
 export function Hero() {
   return (
@@ -57,7 +56,7 @@ export function Hero() {
           <div className="relative flex-1 items-center justify-center hidden lg:flex">
             <div className="relative w-full max-w-lg">
               <img
-                src={homeSvg}
+                src="/home_svg.svg"
                 alt="Network visualization showing interconnected devices and servers"
                 className="w-full scale-170"
                 loading="eager"

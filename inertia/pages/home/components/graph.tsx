@@ -1,5 +1,3 @@
-import graphImg from '@/resources/assets/graph.jpeg'
-
 export function Graph() {
   return (
     <section className="py-20 md:py-28">
@@ -50,7 +48,7 @@ export function Graph() {
             <div className="size-3 rounded-full bg-green-500/80" />
           </div>
           <img
-            src={graphImg}
+            src="/graph.jpeg"
             alt="Network topology graph showing interconnected devices and traffic flows"
             className="w-full"
             loading="lazy"
