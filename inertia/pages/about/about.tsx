@@ -112,7 +112,7 @@ export default function About() {
                   <div className="mt-6">
                     <Button asChild>
                       <a
-                        href="https://github.com/franktronics/Prueftnet.app"
+                        href="https://github.com/franktronics/pruftnet.app"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="gap-2"

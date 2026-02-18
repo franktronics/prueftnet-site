@@ -41,7 +41,7 @@ export function Navbar() {
             </Link>
           ))}
           <a
-            href="https://github.com/franktronics/Prueftnet.app"
+            href="https://github.com/franktronics/pruftnet.app"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-md px-3 py-2 text-sm font-medium text-foreground/80 transition-colors hover:bg-foreground/5 hover:text-foreground"
@@ -83,7 +83,7 @@ export function Navbar() {
                 </SheetClose>
               ))}
               <a
-                href="https://github.com/franktronics/Prueftnet.app"
+                href="https://github.com/franktronics/pruftnet.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 rounded-md px-3 py-2 text-lg font-medium transition-colors hover:bg-accent hover:text-accent-foreground"

@@ -30,7 +30,7 @@ export function Hero() {
               </Button>
               <Button variant="outline" size="lg" className="gap-2 text-base" asChild>
                 <a
-                  href="https://github.com/franktronics/Prueftnet.app"
+                  href="https://github.com/franktronics/pruftnet.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

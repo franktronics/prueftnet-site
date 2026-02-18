@@ -19,7 +19,7 @@ A modern landing page for Pruftnet, an open-source visual network analysis tool 
 ### Installation
 
 ```bash
-git clone https://github.com/franktronics/Prueftnet.app.git
+git clone https://github.com/franktronics/pruftnet.app.git
 cd pruftnet-site
 npm install
 ```
