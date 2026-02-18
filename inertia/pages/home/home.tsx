@@ -27,7 +27,7 @@ export default function Home() {
           content="Free, open-source network analysis with visual workflows"
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://prueftnet.app" />
+        <meta property="og:url" content="https://pruftnet.app" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Pruftnet - Visual Network Analyser" />
         <meta
